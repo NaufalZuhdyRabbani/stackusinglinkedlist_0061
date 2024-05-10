@@ -33,5 +33,5 @@ public:
 		return value;
 	}
 
-	//
+	//Pop operation: Remove the topmost form the stack
 };
