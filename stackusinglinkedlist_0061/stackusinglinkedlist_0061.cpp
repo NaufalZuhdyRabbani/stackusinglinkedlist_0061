@@ -2,4 +2,4 @@
 
 using namespace std;
 
-//Node
+//Node class representing a single node in the linked list
