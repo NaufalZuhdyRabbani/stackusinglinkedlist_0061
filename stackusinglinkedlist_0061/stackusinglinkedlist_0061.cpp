@@ -13,3 +13,13 @@ public:
 	}
 };
 
+// stack class
+class Stack {
+private:
+	Node* top; // Pointer to the top node of the stack
+
+public:
+	Stack() {
+		top = NULL; // initailize the stack with null
+	}
+};
