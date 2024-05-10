@@ -20,6 +20,8 @@ private:
 
 public:
 	Stack() {
-		top = NULL; // initailize the stack with null
+		top = NULL; // initailize the stack with null top pointer
 	}
+
+	//Push opre
 };
