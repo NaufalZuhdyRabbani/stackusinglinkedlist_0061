@@ -45,7 +45,7 @@ public:
 	// peek/top operation: retrive the value of the topmost element without removing it
 	void peek() {
 		if (top == NULL) {
-			COUT << "list is empty." << endl;
+			cout << "list is empty." << endl;
 		}
 		else {
 			Node* current = top;
@@ -56,4 +56,6 @@ public:
 			cout << endl;
 		}// return the value of the top node
 	}
+
+	//IsEmpty operation: check if the top node
 };
