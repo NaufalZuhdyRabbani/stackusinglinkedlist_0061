@@ -58,4 +58,7 @@ public:
 	}
 
 	//IsEmpty operation: check if the top node
+	bool isEmpty() {
+
+	}
 };
